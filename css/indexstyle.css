@@ -1,0 +1,35 @@
+body{
+    color: white;
+    background-color: black;
+}
+#intro{
+    width: 60%;
+    height: 40%;
+    float: left;
+    font-size: 38px;
+}
+
+
+#selfie{
+    width: 40%;
+    height: 40%;
+    float: left;
+}
+
+#project1{
+    width: 33%;
+    height: 25%;
+    float: left;
+}
+
+#project2{
+    width: 33%;
+    height: 25%;
+    float: left;
+}
+
+#project3{
+    width: 33%;
+    height: 25%;
+    float: left;
+}
